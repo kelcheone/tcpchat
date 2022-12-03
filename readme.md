@@ -5,3 +5,8 @@
 - `/rooms` - show lists of available rooms to join.
 - `/msg <msg>` - Broadcast message to everyone in the room.
 - `/quit` - disconnects from the chat server.
+
+## ToDo Featres
+
+- Make it stateful(db and stuff).
+- End to End encryption.
